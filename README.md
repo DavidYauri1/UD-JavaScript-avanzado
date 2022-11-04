@@ -1,4 +1,4 @@
-#  ***EJERCICIOS PROPUESTOS	***
+# EJERCICIOS PROPUESTOS	
 
 ------------
 1. Construye un programa que dado el peso en (kg) y la altura de una persona en (metros) calcule y muestre por pantalla su Índice de Masa Corporal (IMS) o índice de Quetelet. Este índice pretende determinar el intervalo de peso más saludable que puede tener una persona. El valor de este índice se calcula mediante la siguiente expresión:
